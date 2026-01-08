@@ -6,4 +6,4 @@ Each simulation run creates a dedicated branch in this output repository. The re
 ## Project Repository
 
 The project repository for this case study is available here: 
-[Link to Project Repository]() (not actually set yet because no remote has been configured at this moment)
+[Link to Project Repository](https://github.com/schmoelder/diss_operating_modes)
