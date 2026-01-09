@@ -1,9 +1,6 @@
-# Output repository for Example Simulation with CADET
-This repository stores the simulation results for RDM-Example. `CADET-RDM` automatically tracks all simulations that are started by running `main.py` from the corresponding project repository.
+# Output repository for case study "Optimization of advanced operating concepts"
 
-Each simulation run creates a dedicated branch in this output repository. The results are saved within the `src` folder of the respective branch. Additionally, a `log.tsv` file in the main branch records metadata for all runs, uniquely linking each output branch to its originating run in the project repository.
-
-## Project Repository
-
-The project repository for this case study is available here: 
-[Link to Project Repository](https://github.com/schmoelder/diss_operating_modes)
+`CADET-RDM` automatically tracks all simulations that are started by running `main.py` from the corresponding project repository.
+Each run creates a dedicated branch in this output repository in which the results are stored.
+Additionally, a `log.tsv` file in the 'main' branch records metadata for all runs, uniquely linking each output branch to its originating run in the project repository.
+The project repository for this case study is available [here](https://github.com/schmoelder/diss_operating_modes).
