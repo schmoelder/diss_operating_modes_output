@@ -19,3 +19,5 @@ The project repository for this case study is available here:
 
 The dissertation source is available here:
 [diss](https://github.com/schmoelder/diss)
+The output repository can be found at:
+[Link to Project Repository](https://github.com/schmoelder/diss_operating_modes)
