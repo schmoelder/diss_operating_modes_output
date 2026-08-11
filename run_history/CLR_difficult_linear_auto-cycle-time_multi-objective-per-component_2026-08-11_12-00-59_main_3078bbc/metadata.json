@@ -1,0 +1,14 @@
+{
+  "output_repo_commit_message": "CLR_difficult_linear_auto-cycle-time_multi-objective-per-component_2026-08-11; ",
+  "output_repo_branch": "CLR_difficult_linear_auto-cycle-time_multi-objective-per-component_2026-08-11_12-00-59_main_3078bbc",
+  "output_repo_commit_hash": "b712dc8be1c40bf0d4e84fe1c051d254e5812ddd",
+  "project_repo_branch": "main",
+  "project_repo_commit_hash": "3078bbca3c15e1bd5b356aec08908e0e76514144",
+  "project_repo_directory_name": "diss_operating_modes_067",
+  "project_repo_remotes": [
+    "git@github.com:schmoelder/diss_operating_modes.git"
+  ],
+  "python_sys_args": "['dev_run_all.py']",
+  "tags": "",
+  "options_hash": "hhn4yz532g8are0sg32mkztdxf1q6q73"
+}
