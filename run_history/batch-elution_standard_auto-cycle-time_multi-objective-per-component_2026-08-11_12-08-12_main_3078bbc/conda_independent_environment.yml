@@ -1,0 +1,8 @@
+name: operating_modes
+channels:
+  - conda-forge
+dependencies:
+  - python=3.14.3
+  - cadet=5.1.1
+  - pip
+prefix: /home/IBT/schmoelder/software/miniforge3/envs/operating_modes
