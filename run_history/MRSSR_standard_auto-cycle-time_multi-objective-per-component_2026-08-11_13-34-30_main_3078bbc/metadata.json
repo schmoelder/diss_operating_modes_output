@@ -1,0 +1,14 @@
+{
+  "output_repo_commit_message": "MRSSR_standard_auto-cycle-time_multi-objective-per-component_2026-08-11; ",
+  "output_repo_branch": "MRSSR_standard_auto-cycle-time_multi-objective-per-component_2026-08-11_13-34-30_main_3078bbc",
+  "output_repo_commit_hash": "e4391c7f2c9ccd63f14d056424cdb1a536d51f31",
+  "project_repo_branch": "main",
+  "project_repo_commit_hash": "3078bbca3c15e1bd5b356aec08908e0e76514144",
+  "project_repo_directory_name": "diss_operating_modes_068",
+  "project_repo_remotes": [
+    "git@github.com:schmoelder/diss_operating_modes.git"
+  ],
+  "python_sys_args": "['dev_run_all.py']",
+  "tags": "",
+  "options_hash": "g4tkjc1z54chmfp4vm1c4w2n4chcrex7"
+}
